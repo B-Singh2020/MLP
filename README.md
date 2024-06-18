@@ -1,5 +1,8 @@
 I used this project to dive deeper into the world of Multilayer Perceptrons (MLPs) and neural networks in general. I used PyTorch to build a model that can classify handwritten digits from the MNIST dataset. Essentially, the model is learning to recognize individual numbers (0-9) from grayscale images.
 
+
+![image](https://github.com/B-Singh2020/MLP/assets/48160814/f0a49a40-b296-4301-bc8f-e6f57e3a09ae)
+
 The project focuses on clear and well-structured code, breaking down the process into steps:
 
 First, I prepped the data by normalizing it and splitting it into training, validation, and test sets. This helps the model train effectively and avoid biases.
@@ -15,5 +18,8 @@ Some possible extensions for this project include:
 - Try another model type, like CNN
 - Add more layers to the current MLP model (deeper network)
 - Add more neurons per layer into the MLP (wider network)
+
+
+
 
 
